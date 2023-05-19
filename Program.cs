@@ -44,7 +44,7 @@ namespace Branch_Counting
             Branch branch10 = new Branch();
             Branch branch11 = new Branch();
 
-            //I used the given branch structure
+            //I used the given branch structure in the PDF
 
             branch1.branches = new List<Branch> { branch2, branch3 };
             branch2.branches = new List<Branch> { branch4 };
